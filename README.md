@@ -1,6 +1,6 @@
 # 3D2M-Dataset
 3D Mesh Dataset:
-Dataset ZIP Link: https://drive.google.com/file/d/18tsl2scLbnq3oGGxqOJUqnCyItz1ojmD/view?usp=sharing
+Dataset ZIP Link: https://drive.google.com/file/d/1bqOz5aFyhWqBo9_AUJcAod-wp9OfOq3c/view?usp=sharing
 
 Please cite us in:
 
